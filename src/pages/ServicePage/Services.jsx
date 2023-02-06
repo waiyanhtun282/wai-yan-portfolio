@@ -15,13 +15,13 @@ const servicesData=[
   {
     id:1,
     title:"Responsive Design",
-    description:"Lorem Ipsum is simply dummy text of the printing simply dummy text of the printing and typesetting industry.",
+    description:"Responsive design is an important thing in media devices. I can create responsive designs for mobile, tablet , computer and desktop.",
     icon:<BsVectorPen size={30} className='text-kayan' />
   },
   {
     id:2,
     title:"Clean Code",
-    description:"Lorem Ipsum is simply dummy text of the printing simply dummy text of the printing and typesetting industry.",
+    description:"I can write clean codes and reuseable codes. And it is easy to understand and to reuse that other developers .",
     icon:<BsCodeSlash size={30} className='text-kayan' />
   },
   {
@@ -33,7 +33,7 @@ const servicesData=[
   {
     id:4,
     title:"User Friendly UI",
-    description:"Lorem Ipsum is simply dummy text of the printing simply dummy text of the printing and typesetting industry.",
+    description:"UI is an important thing for users. And it is also need to friendly with user. Don't worry for it. I can provide the best for UI",
     icon:<BsUiChecksGrid size={30} className='text-kayan' />
   },
   {
