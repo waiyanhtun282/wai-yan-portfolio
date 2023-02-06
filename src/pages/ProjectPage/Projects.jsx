@@ -37,7 +37,7 @@ const projectsData=[
     title:"Mini Shopping",
     image: <img src={shoppingImg} alt="" className='w-100 shadow-lg h-auto rounded-[8px]'/>,
     url:"https://swd-redux-mini-shopping.netlify.app/",
-    git:"https://github.com/MgHtetMyatAung/fiber-starter.git"
+    git:"https://github.com/MgHtetMyatAung/redux-shopping-pj.git"
   },
   {
     id:5,
