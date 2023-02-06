@@ -73,7 +73,7 @@ html{
     }
     .about{
         min-height: calc(100vh - 0px);
-        @apply w-full pt-[80px] md:pt-[100px] lg:pt-[0px] lg:flex lg:flex-col justify-center;
+        @apply w-full pt-[80px] md:pt-[100px] lg:pt-[70px] lg:flex lg:flex-col justify-center;
     }
 
     
