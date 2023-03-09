@@ -26,7 +26,7 @@ const About = () => {
       </div>
       <div className="flex py-5 md:mx-auto bg-white shadow-lg w-[100%] md:w-[70%] bottom-[0%] left-[15%] rounded-[8px] mt-5 xl:mt-20" data-aos="zoom-in">
         <div className="w-1/3 text-center border-r-4 border-kayan">
-          <p className='text-[20px] md:text-[25px] font-medium'>1.5 years</p>
+          <p className='text-[20px] md:text-[25px] font-medium'>2 years</p>
           <p className='text-[16px] md:text-[18px] text-[#555]'>Experience</p>
         </div>
         <div className="w-1/3 text-center border-r-4 border-kayan">
