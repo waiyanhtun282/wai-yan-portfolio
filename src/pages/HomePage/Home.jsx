@@ -10,32 +10,32 @@ const Home = () => {
     <div className='home'>
       <div className="h_main mt-10 md:mt-20 lg:mt-0">
         <div className="flex flex-col">
-          <p className='font-semibold text-[30px]'>I am <span className='text-[32px] text-kayan'>H</span>tet Myat</p>
+          <p className='font-semibold text-[30px]'>I am <span className='text-[32px] text-kayan'>W</span>ai Yan</p>
           <p className='text-[32px] md:text-[48px] xl:text-[55px] font-bold'><span className='text-[38px] md:text-[55px] lg:text-[60px] text-kayan'>F</span>rontend <span className='text-[38px] md:text-[55px] lg:text-[60px] text-kayan'>D</span>eveloper</p>
           <p className='text-[#555] font-medium my-2'>
             You can trust me <br />
             And I wanna try to perfect your business
           </p>
           <div className="hidden md:flex gap-10 md:gap-3">
-            <a href='https://www.facebook.com/profile.php?id=100042798099129&mibextid=ZbWKwL' className="w-[40px] h-[40px] bg-white rounded-full flex items-center cursor-pointer text-black hover:text-kayan transition-all duration-200">
+            <a href='https://www.facebook.com/waiyan.yan.12382?mibextid=ZbWKwL' className="w-[40px] h-[40px] bg-white rounded-full flex items-center cursor-pointer text-black hover:text-kayan transition-all duration-200">
               <FaFacebook size={25} className="ml-2 md:ml-3"/>
               <span className='text-black hidden md:ml-3 text-[18px] cursor-pointer'>Facebook</span>
             </a>
-            <a href='https://t.me/MgTayZa' className="w-[40px] h-[40px] bg-white rounded-full flex items-center cursor-pointer text-black hover:text-kayan transition-all duration-200">
+            <a href='https://t.me/wai_yan_282' className="w-[40px] h-[40px] bg-white rounded-full flex items-center cursor-pointer text-black hover:text-kayan transition-all duration-200">
               <FaTelegram size={25} className="ml-2 md:ml-3"/>
               <span className='text-black hidden md:ml-3 text-[18px] cursor-pointer'>Telegram</span>
             </a>
-            <a href='https://instagram.com/htet_myataung2002?igshid=NTA5ZTk1NTc=' className="w-[40px] h-[40px] bg-white rounded-full flex items-center cursor-pointer text-black hover:text-kayan transition-all duration-200">
+            <a href='https://www.instagram.com/waiyan65/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D' className="w-[40px] h-[40px] bg-white rounded-full flex items-center cursor-pointer text-black hover:text-kayan transition-all duration-200">
               <FaInstagram size={25} className="ml-2 md:ml-3"/>
               <span className='text-black hidden md:ml-3 text-[18px] cursor-pointer'>Instagram</span>
             </a>
-            <a href='https://github.com/MgHtetMyatAung' className="w-[40px] h-[40px] bg-white rounded-full flex items-center cursor-pointer text-black hover:text-kayan transition-all duration-200">
+            <a href='https://github.com/waiyanhtun282' className="w-[40px] h-[40px] bg-white rounded-full flex items-center cursor-pointer text-black hover:text-kayan transition-all duration-200">
               <FaGithub size={25} className="ml-2 md:ml-3"/>
               <span className='text-black hidden md:ml-3 text-[18px] cursor-pointer'>GitHub</span>
             </a>
           </div>
           <div className="flex gap-3 mt-5">
-            <a href='tel:09770106619' className='h_btn'>Hire me</a>
+            <a href='tel:09787550342' className='h_btn'>Hire me</a>
             <a href='#contact' className='h_btn'>Contact</a>
           </div>
         </div>

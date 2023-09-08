@@ -19,7 +19,7 @@ const About = () => {
         </div>
         <div className="w-full lg:w-1/2" data-aos="zoom-in">
           <p className='text-[18px] mt-3 text-[#666]'>
-          <span className='text-kayan font-medium text-[20px]'>{`<p>`}</span>   Hello, my name’s <span className='font-bold text-[19px] text-black'>Htet Myat Aung</span> . I am a frontend developer based in Myanmar and I have been studying web design since 2021. <br />
+          <span className='text-kayan font-medium text-[20px]'>{`<p>`}</span>   Hello, my name’s <span className='font-bold text-[19px] text-black'>Wai Yan Htun</span> . I am a frontend developer based in Myanmar and I have been studying web design since 2021. <br />
            <span className=' opacity-0'>hello par</span> I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.   <span className='text-kayan font-medium text-[20px]'>{`</p> `}</span>
           </p>
         </div>
