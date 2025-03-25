@@ -17,8 +17,8 @@ const Contact = () => {
             <h2 className='text-[20px] font-semibold uppercase'>Contact</h2>
             <ul className='mt-3 leading-loose text-[#c5c4c4]'>
               <li>Email : waiyanhtun282@gmail.com</li>
-              <li>Phone : 09787550342</li>
-              <li>Address : Yangon/ Hlaing </li>
+              <li>Phone : +971 551680654</li>
+              <li>Address : United Arab Emirates/ Dibba City </li>
             </ul>
           </div>
           <div className="md:pl-10 my-10 md:my-0" data-aos="zoom-in">
